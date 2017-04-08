@@ -102,7 +102,7 @@ void setup()
     
     Serial.println("______________________________");
     
-    SkyObjectStruct object = catalog->object(NULL,7000,DatabaseObjectNGC);
+    SkyObjectStruct object = catalog->object("cyg",7000,DatabaseObjectNGC);
       
     printSkyObject(object);
   }
