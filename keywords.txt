@@ -1,0 +1,41 @@
+#######################################
+# Syntax Coloring Map For SkyCatalog
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SkyCatalog	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setLanguage                             KEYWORD2
+initDatabase                            KEYWORD2
+databaseDescription                     KEYWORD2
+
+openConstellationList                   KEYWORD2
+gotoNextConstellationInList             KEYWORD2
+gotoPreviousConstellationInList         KEYWORD2
+currentConstellationAbbreviationInList  KEYWORD2
+currentConstellationInList              KEYWORD2
+closeConstellationList                  KEYWORD2
+
+openObjectList   			            KEYWORD2
+gotoNextObjectInList                    KEYWORD2
+gotoPreviousObjectInList                KEYWORD2
+currentObjectInList                     KEYWORD2
+object                                  KEYWORD2
+closeObjectList                         KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+SkyCatalog
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
