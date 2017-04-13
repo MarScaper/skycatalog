@@ -19,7 +19,7 @@ Unzip "db.zip" on your SD card.
 You're ready to go with sample codes availables in menu "File->Examples->SkyCatalog".
 
 ## Goodies
-SdFat library support can be easily enable in "SkyCatalog.hpp" for speed and memory improvment. SdFat is strongly recommanded. You just need to set define USE_SD_FAT to 1. By default, SdFat is not enable for "plug and play" compatibiity with default arduino libraries.
+SdFat library support can be easily enable in "SkyCatalog.hpp" for speed and memory improvement. SdFat is strongly recommanded. You just need to set define USE_SD_FAT to 1. By default, SdFat is not enable for "plug and play" compatibiity with default arduino libraries.
 
 ## Note for Mac users
 Take care to hidden files generated on your SD card by OS X. They must be deleted before ejection. 
